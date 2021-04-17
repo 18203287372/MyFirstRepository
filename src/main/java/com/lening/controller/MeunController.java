@@ -20,6 +20,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/meun")
 public class MeunController {
 
+
+
     @Autowired
     private MeunService meunService;
 
