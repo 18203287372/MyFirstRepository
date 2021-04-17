@@ -23,6 +23,7 @@ import java.util.List;
 @RequestMapping("/post")
 public class PostController {
 
+
     @Autowired
     private PostService postService;
 
